@@ -1,0 +1,8 @@
+rootProject.name = 'update_1c_TSD'
+include 'updater'
+include 'updater'
+include 'updater'
+include 'udater'
+include 'src:test:untitled'
+findProject(':src:test:untitled')?.name = 'untitled'
+

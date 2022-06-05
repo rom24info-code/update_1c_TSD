@@ -1,0 +1,13 @@
+parametersForRun1c=CONFIG /DisableStartupMessages
+pathTo1c="C:\Program Files (x86)\1cv8\8.3.12.1616\bin\1cv8"
+nameBase1c=localhost\tsd035
+userCluster=
+passCluster=
+user1c=Администратор
+userFtp=ftp_user
+pathLocalFileFromFtp=C:\updateconf1c
+ftpHost=10.1.3.50
+cryptPassCluster=lq1mF6leqAWZ4H5Zlm6dhA==
+cryptPass1c=LRacw5we+5FKTG60l3VZOA
+cryptPassFtp=n/WX9garc3os64EGN8GTTA
+timeEndUpdate=15:13:33
